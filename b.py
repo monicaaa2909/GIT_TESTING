@@ -7,6 +7,7 @@ def dosomething():
     print('kaushikay rockzzz')
 
     print('monika was here')
+    print('monika is awesome')
 
 
 dosomething()
