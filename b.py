@@ -6,6 +6,7 @@ def dosomething():
     print(f'sarcasm size is{siz}')
     print('kaushikay rockzzz')
 
+    print('monika was here')
 
 
 dosomething()
